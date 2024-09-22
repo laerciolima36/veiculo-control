@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833401263621",
+    "project_id": "veiculo-control",
+    "storage_bucket": "veiculo-control.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833401263621:android:ca9accb70b24919e20ee6c",
+        "android_client_info": {
+          "package_name": "com.veiculocontrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuHOTXFa-lWBRU2u0VdWzlX_loNsxQKks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

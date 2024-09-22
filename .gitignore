@@ -1,0 +1,48 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretórios de dependências
+/node_modules
+/ios/Pods
+
+# Build outputs
+/android/app/build
+/ios/build
+/android/build
+/android/app/build/outputs/apk/debug/app-debug.apk
+
+# Arquivos de configuração do editor e sistema operacional
+.vscode/
+.idea/
+*.sublime-workspace
+*.swp
+.DS_Store
+Thumbs.db
+
+# Diretório de artefatos temporários de metro bundler
+.expo/
+.expo-shared/
+.bundle/
+.gradle/
+react-native/ReactCommon/hermes/inspector/tools/msggen/__pycache__/
+
+# Configurações específicas da plataforma Android
+*.keystore
+
+# Arquivos de cache
+*.cache/
+*.tmp/
+tmp/
+
+# Específicos do MacOS
+xcuserdata/
+
+# Outros
+.env
+.DS_Store
+android/.DS_Store
+android/app/.DS_Store
